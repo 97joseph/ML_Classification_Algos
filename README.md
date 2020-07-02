@@ -1,2 +1,2 @@
 # ML_Classification_Algos
- A test suite of classificaion problems
+ A test suite of classification problems

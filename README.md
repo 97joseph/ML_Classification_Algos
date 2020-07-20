@@ -1,2 +1,2 @@
-# ML_Classification_Algos
+# ML Classification Algorithms
  A test suite of classification problems

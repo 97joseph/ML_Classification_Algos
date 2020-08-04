@@ -7,3 +7,4 @@
 # Perceptron learning algorithm
 # GeneraL Linear Models (GLMS)
 # Discriminative vs Non-Discriminative Learning Algorithms
+# Variance vs Bias
